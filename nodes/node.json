@@ -1,0 +1,11 @@
+{
+  "rbenv": {
+    "versions": ["2.3.1"],
+    "global": "2.3.1",
+    "gems": ["bundler"]
+  },
+  "pyenv": {
+    "versions": ["2.7.11", "3.5.1"],
+    "global": "3.5.1"
+  }
+}
